@@ -3,7 +3,7 @@
 This is my personal portfolio website built using HTML and CSS only.
 
 ## 🌐 Live Demo  
-[Click to View Portfolio](https://Brianmwaghogho.github.io/brian-portfolio-website/)
+[Click to View Portfolio](https://brianmwaghogho.github.io/Brian-portfolio-website/)
 
 ## 📌 Sections
 - About Me
